@@ -56,18 +56,19 @@ public static class LevelDatabase
         }),
         new LevelDefinition(6, 6, new List<ColorPair>
         {
-            new ColorPair(0, new Vector2Int(0,0), new Vector2Int(5,1)),
-            new ColorPair(1, new Vector2Int(0,2), new Vector2Int(5,3)),
+            new ColorPair(0, new Vector2Int(0,0), new Vector2Int(5,0)),
+            new ColorPair(1, new Vector2Int(0,2), new Vector2Int(5,2)),
             new ColorPair(2, new Vector2Int(0,4), new Vector2Int(5,4)),
             new ColorPair(3, new Vector2Int(0,5), new Vector2Int(5,5)),
         }),
         new LevelDefinition(6, 6, new List<ColorPair>
         {
-            new ColorPair(0, new Vector2Int(0,0), new Vector2Int(5,1)),
-            new ColorPair(1, new Vector2Int(0,2), new Vector2Int(5,3)),
+            new ColorPair(0, new Vector2Int(0,0), new Vector2Int(5,0)),
+            new ColorPair(1, new Vector2Int(0,2), new Vector2Int(5,2)),
             new ColorPair(2, new Vector2Int(0,4), new Vector2Int(5,4)),
             new ColorPair(3, new Vector2Int(0,5), new Vector2Int(2,5)),
             new ColorPair(4, new Vector2Int(3,5), new Vector2Int(5,5)),
+
         }),
         new LevelDefinition(7, 7, new List<ColorPair>
         {
